@@ -93,8 +93,8 @@ func (p *Persistance) SaveToFile(j *Journal, filename string) {
 
 func main() {
 	j := Journal{}
-	j.AddEntry("I ate a bug")
-	j.AddEntry("I cried today")
+	j.AddEntry("I found a bug in Income")
+	j.AddEntry("I cried today. A lot.")
 
 	fmt.Println(j.String())
 
