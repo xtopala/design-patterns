@@ -160,11 +160,11 @@ func (a AndSpecification) IsSatisfied(p *Product) bool {
 }
 
 func main() {
-	apple := Product{"Apple", green, small}
-	tree := Product{"Tree", green, large}
-	house := Product{"House", blue, large}
+	booger := Product{"Booger", green, small}
+	lbge := Product{"Large Big Green Egg", green, large}
+	whale := Product{"Whale", blue, large}
 
-	products := []Product{apple, tree, house}
+	products := []Product{booger, lbge, whale}
 	fmt.Printf("Green products (old):\n")
 
 	f := Filter{}
