@@ -7,8 +7,8 @@ Here's what we plan to go through, and we've achieved so far:
 
  - SOLID
     - [x] Single Responsibility Principle (**SRP**)
-    - [ ] Open-Closed Principle (**OCP**)
-    - [ ] Liskov Substitution Principle (**LSP**)
+    - [x] Open-Closed Principle (**OCP**)
+    - [x] Liskov Substitution Principle (**LSP**)
     - [ ] Interface Segregation Principle (**ISP**)
     - [ ] Dependency Inversion Principle (**DIP**)
 
