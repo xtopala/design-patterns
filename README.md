@@ -9,7 +9,7 @@ Here's what we plan to go through, and we've achieved so far:
     - [x] Single Responsibility Principle (**SRP**)
     - [x] Open-Closed Principle (**OCP**)
     - [x] Liskov Substitution Principle (**LSP**)
-    - [ ] Interface Segregation Principle (**ISP**)
-    - [ ] Dependency Inversion Principle (**DIP**)
+    - [x] Interface Segregation Principle (**ISP**)
+    - [x] Dependency Inversion Principle (**DIP**)
 
 More to come 🚀

@@ -5,17 +5,17 @@
 // We shouldn't try to throw everything and sink into just one single interface.
 // And then sometimes it makes sense to break up the interface into several smaller ones.
 
+package main
+
 // Lets say we have a type Document that stores some information about the documents,
 // and we want to make an interface that allows people to build different machines,
 // different constructs for operating on the documents (printing, scanning, sending...)
 
-// So one approach would be just make a single Machine interface
-
-package main
-
 type Document struct {
 	// ...
 }
+
+// So one approach would be just make a single Machine interface
 
 type Machine interface {
 	Print(d Document)

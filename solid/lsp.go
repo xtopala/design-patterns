@@ -9,12 +9,12 @@
 // Since this concept doesn't exist here, as it should be elsewhere,
 // but we're going to try out a variation of LSP that does apply to Go.
 
-// Let's suppose that we're trying to deal with geometric shapes of rectangular nature.
-// And we decide to have an interface that allows the specifications of certain operations.
-
 package main
 
 import "fmt"
+
+// Let's suppose that we're trying to deal with geometric shapes of rectangular nature.
+// And we decide to have an interface that allows the specifications of certain operations.
 
 type Sized interface {
 	GetWidth() int
