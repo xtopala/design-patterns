@@ -15,7 +15,7 @@ Here's what we plan to go through, and we've achieved so far:
 > Useful principles of not so useful object-oriented design
 
 - Builder
-    - [ ] Builder
+    - [x] Builder
     - [ ] Builder Facets
     - [ ] Builder Parameter
     - [ ] Functional Builder
