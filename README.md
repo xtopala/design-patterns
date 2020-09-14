@@ -16,7 +16,7 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Builder
     - [x] Builder
-    - [ ] Builder Facets
+    - [x] Builder Facets
     - [ ] Builder Parameter
     - [ ] Functional Builder
 
