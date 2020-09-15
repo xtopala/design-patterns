@@ -23,7 +23,7 @@ Here's what we plan to go through, and we've achieved so far:
 > When constructing gets a little bit to complicated
 
 - Factories
-    - [ ] Factory Function
+    - [x] Factory Function
     - [ ] Interface Factory
     - [ ] Factory Generator
     - [ ] Prototype Factory
