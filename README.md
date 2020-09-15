@@ -22,4 +22,12 @@ Here's what we plan to go through, and we've achieved so far:
 
 > When constructing gets a little bit to complicated
 
+- Factories
+    - [ ] Factory Function
+    - [ ] Interface Factory
+    - [ ] Factory Generator
+    - [ ] Prototype Factory
+
+> Ways of controlling how an object is constructed
+
 More to come 🚀
