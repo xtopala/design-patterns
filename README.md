@@ -24,9 +24,9 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Factories
     - [x] Factory Function
-    - [ ] Interface Factory
-    - [ ] Factory Generator
-    - [ ] Prototype Factory
+    - [x] Interface Factory
+    - [x] Factory Generator
+    - [x] Prototype Factory
 
 > Ways of controlling how an object is constructed
 
