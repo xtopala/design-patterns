@@ -94,7 +94,7 @@ func (s *Square) SetHeight(height int) {
 // in the Sized argument, it should continue to work.
 
 // -> We took a Rectangle and decided to extend it to a Square.
-// Square should also continu to work. But it does not in it's current form.
+// Square should also continue to work. But it does not in it's current form.
 
 // LSP -> If we continue to use generalizations, Interfaces in our case,
 // then we shouldn't have inheritors or shouldn't have implementers of those
