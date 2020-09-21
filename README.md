@@ -39,9 +39,9 @@ Here's what we plan to go through, and we've achieved so far:
 > When it's easier to copy an existing object to fully initialize a new one
 
 - Singleton
-    - [ ] Sinlgeton
-    - [ ] Problems with Sinlgeton
-    - [ ] Sinlgeton and Dependency Inversion
+    - [x] Singleton
+    - [x] Problems with Sinlgeton
+    - [x] Sinlgeton and Dependency Inversion
 
 > A design pattern everyone loves to hate... but is it really that bad?
 
