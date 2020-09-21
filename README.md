@@ -45,4 +45,10 @@ Here's what we plan to go through, and we've achieved so far:
 
 > A design pattern everyone loves to hate... but is it really that bad?
 
+- Adapter
+    - [x] Adapter
+    - [x] Adapter Caching
+
+> Getting the interface you want from the interface you have
+
 More to come 🚀
