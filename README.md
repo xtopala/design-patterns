@@ -52,7 +52,7 @@ Here's what we plan to go through, and we've achieved so far:
 > Getting the interface you want from the interface you have
 
 - Bridge
-    - [] Bridge
+    - [x] Bridge
 
 > Connecting components together through abstractions
 
