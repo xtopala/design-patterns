@@ -56,4 +56,16 @@ Here's what we plan to go through, and we've achieved so far:
 
 > Connecting components together through abstractions
 
+- Composite
+    - [x] Geometric Shapes
+    - [x] Neural Networks
+
+> Treating individual and aggregate objects uniformly
+
+- Decorator
+    - [ ] Multiple Aggregation
+    - [ ] Decorator
+
+> Adding behaviour without altering the type itself
+
 More to come 🚀
