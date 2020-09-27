@@ -63,7 +63,7 @@ Here's what we plan to go through, and we've achieved so far:
 > Treating individual and aggregate objects uniformly
 
 - Decorator
-    - [ ] Multiple Aggregation
+    - [x] Multiple Aggregation
     - [ ] Decorator
 
 > Adding behaviour without altering the type itself
