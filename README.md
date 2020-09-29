@@ -64,8 +64,13 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Decorator
     - [x] Multiple Aggregation
-    - [ ] Decorator
+    - [x] Decorator
 
 > Adding behaviour without altering the type itself
+
+- Facade
+    - [x] Facade
+
+> Exposing several components through a single interface
 
 More to come 🚀
