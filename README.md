@@ -79,4 +79,11 @@ Here's what we plan to go through, and we've achieved so far:
 
 > Space optimization !
 
+- Proxy
+    - [x] Protection Proxy
+    - [ ] Virtual Proxy
+    - [ ] Proxy vs Decorator
+
+> An interface for accessing a particular resource
+
 More to come 🚀
