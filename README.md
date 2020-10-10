@@ -73,4 +73,10 @@ Here's what we plan to go through, and we've achieved so far:
 
 > Exposing several components through a single interface
 
+- Flyweight
+    - [x] Text Formatting
+    - [x] User Names
+
+> Space optimization !
+
 More to come 🚀
