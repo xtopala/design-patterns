@@ -81,9 +81,15 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Proxy
     - [x] Protection Proxy
-    - [ ] Virtual Proxy
-    - [ ] Proxy vs Decorator
+    - [x] Virtual Proxy
 
 > An interface for accessing a particular resource
+
+- Chain of Responsibility
+    - [ ] Method Chain
+    - [ ] Command Query Separation
+    - [ ] Broker Chain
+
+> Sequence of handlers processing an event one after another
 
 More to come 🚀
