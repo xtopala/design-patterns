@@ -91,4 +91,12 @@ Here's what we plan to go through, and we've achieved so far:
 
 > Sequence of handlers processing an event one after another
 
+- Command
+    - [ ] Command
+    - [ ] Undo Operations
+    - [ ] Composite Command
+    - [ ] Functional Command
+
+> YOU SHALL NOT PASS!
+
 More to come 🚀
