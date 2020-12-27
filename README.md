@@ -86,9 +86,8 @@ Here's what we plan to go through, and we've achieved so far:
 > An interface for accessing a particular resource
 
 - Chain of Responsibility
-    - [ ] Method Chain
-    - [ ] Command Query Separation
-    - [ ] Broker Chain
+    - [x] Method Chain
+    - [x] Broker Chain
 
 > Sequence of handlers processing an event one after another
 
