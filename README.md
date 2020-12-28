@@ -92,7 +92,7 @@ Here's what we plan to go through, and we've achieved so far:
 > Sequence of handlers processing an event one after another
 
 - Command
-    - [ ] Command
+    - [x] Command
     - [ ] Undo Operations
     - [ ] Composite Command
     - [ ] Functional Command

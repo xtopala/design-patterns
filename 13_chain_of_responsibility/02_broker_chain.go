@@ -31,7 +31,7 @@ type Creature struct {
 	game            *Game
 }
 
-// -> In the previous example we only applied the modifiers
+// <- In the previous example we only applied the modifiers
 // 	  explicitly by callig the Handle method.
 
 // What we wanto to be able to do is, we want to be able to apply
@@ -76,7 +76,7 @@ type Query struct {
 	Value        int
 }
 
-// -> Value here it's interesting, apart from the obvious, that that's the value
+// <- Value here it's interesting, apart from the obvious, that that's the value
 //    we expect to read, we can also specify the initial value so that
 //	  whoever handles this query has a possibility of actually taking an
 //	  existing value and modifying it.
@@ -102,7 +102,7 @@ type Game struct {
 	observers sync.Map
 }
 
-// -> This syn map is going to allow us to basically keep a map
+// <- This syn map is going to allow us to basically keep a map
 //	  of every single subscriber and to iterate this map to go through
 // 	  every single subscriber and notify on that subscriber.
 
@@ -178,14 +178,14 @@ func (c *CreatureModifier) Handle(q *Query) {
 	// nothing !
 }
 
-// -> By default, this thing only exists so that we can compose it
+// <- By default, this thing only exists so that we can compose it
 //	  as part of actual modifiers.
 
 type DoubleAttackModifier struct {
 	CreatureModifier
 }
 
-// -> We also want a Handle method, because this needs to be an Observer.
+// <- We also want a Handle method, because this needs to be an Observer.
 
 func (d *DoubleAttackModifier) Handle(q *Query) {
 	if q.CreatureName == d.creature.Name && q.WhatToQuery == Attack {

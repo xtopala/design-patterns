@@ -89,7 +89,7 @@ type DoubleAttackModifier struct {
 	CreatureModifier
 }
 
-// -> What we do here is we're simply aggregating creature modifier here
+// <- What we do here is we're simply aggregating creature modifier here
 
 // But now we can have a constructor:
 
