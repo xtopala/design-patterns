@@ -93,8 +93,8 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Command
     - [x] Command
-    - [ ] Undo Operations
-    - [ ] Composite Command
+    - [x] Undo Operations
+    - [x] Composite Command
     - [ ] Functional Command
 
 > YOU SHALL NOT PASS!
