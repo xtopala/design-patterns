@@ -101,7 +101,7 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Interpreter
     - [x] Lexing
-    - [ ] Parsing
+    - [x] Parsing
 
 > Interpreters are all around us. Even now, in this very room.
 
