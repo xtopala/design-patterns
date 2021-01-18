@@ -100,7 +100,7 @@ Here's what we plan to go through, and we've achieved so far:
 > YOU SHALL NOT PASS!
 
 - Interpreter
-    - [ ] Lexing
+    - [x] Lexing
     - [ ] Parsing
 
 > Interpreters are all around us. Even now, in this very room.
