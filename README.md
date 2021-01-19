@@ -105,4 +105,10 @@ Here's what we plan to go through, and we've achieved so far:
 
 > Interpreters are all around us. Even now, in this very room.
 
+- Iterator
+    - [x] Iteration
+    - [ ] Tree Traversal
+
+> How traversal of data structures happens and who makes it happen.
+
 More to come 🚀
