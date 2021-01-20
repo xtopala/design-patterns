@@ -12,7 +12,7 @@ Here's what we plan to go through, and we've achieved so far:
     - [x] Interface Segregation Principle (**ISP**)
     - [x] Dependency Inversion Principle (**DIP**)
 
-    > Useful principles of not so useful object-oriented design
+> Useful principles of not so useful object-oriented design
 
 - Builder
     - [x] Builder
