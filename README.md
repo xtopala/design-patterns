@@ -107,7 +107,7 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Iterator
     - [x] Iteration
-    - [ ] Tree Traversal
+    - [x] Tree Traversal
 
 > How traversal of data structures happens and who makes it happen.
 
