@@ -111,4 +111,9 @@ Here's what we plan to go through, and we've achieved so far:
 
 > How traversal of data structures happens and who makes it happen.
 
+- Mediator
+    - [ ] Chat Room
+
+> Facilitates communication between components.
+
 More to come 🚀
