@@ -112,8 +112,14 @@ Here's what we plan to go through, and we've achieved so far:
 > How traversal of data structures happens and who makes it happen.
 
 - Mediator
-    - [ ] Chat Room
+    - [x] Chat Room
 
 > Facilitates communication between components.
+
+- Memento
+    - [ ] Memento
+    - [ ] Undo and Redo
+
+> Keep a memento of an object's state to return to that state.
 
 More to come 🚀
