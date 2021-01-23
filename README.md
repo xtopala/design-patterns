@@ -117,9 +117,16 @@ Here's what we plan to go through, and we've achieved so far:
 > Facilitates communication between components.
 
 - Memento
-    - [ ] Memento
-    - [ ] Undo and Redo
+    - [x] Memento
+    - [x] Undo and Redo
 
 > Keep a memento of an object's state to return to that state.
+
+- Observer
+    - [ ] Observer and Observable
+    - [ ] Property Observers
+    - [ ] Property Dependencies
+
+> I am watching you!
 
 More to come 🚀

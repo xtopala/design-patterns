@@ -128,8 +128,6 @@ func main() {
 	room.Join(fatAbbot)
 	room.Join(rudy)
 
-	fmt.Println(fatAbbot.Name)
-
 	fatAbbot.Say("Hey hey hey. What's goin' on, Rudy?")
 	rudy.Say("Man, Fat Abbot, you need to lose weight!")
 	fatAbbot.Say("You know somethin', Rudy? You're like school in summertime.")
