@@ -124,8 +124,8 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Observer
     - [x] Observer and Observable
-    - [ ] Property Observers
-    - [ ] Property Dependencies
+    - [x] Property Observers
+    - [x] Property Dependencies
 
 > I am watching you!
 
