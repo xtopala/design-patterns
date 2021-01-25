@@ -123,7 +123,7 @@ Here's what we plan to go through, and we've achieved so far:
 > Keep a memento of an object's state to return to that state.
 
 - Observer
-    - [ ] Observer and Observable
+    - [x] Observer and Observable
     - [ ] Property Observers
     - [ ] Property Dependencies
 
