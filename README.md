@@ -129,4 +129,11 @@ Here's what we plan to go through, and we've achieved so far:
 
 > I am watching you!
 
+- State
+    - [x] Classic Implementation
+    - [x] PHandmade State Machin
+    - [ ] Switch-Based State Machine
+
+> Fun with Finite State Machines.
+
 More to come 🚀
