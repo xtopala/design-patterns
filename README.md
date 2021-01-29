@@ -157,9 +157,16 @@ Here's what we plan to go through, and we've achieved so far:
 > Fun with Finite State Machines.
 
 - Strategy
-    - [ ] Strategy
+    - [x] Strategy
     - [ ] Summary 
 
 > System behavior partially specified at runtime.
+
+- Template Method
+    - [x] Template Method
+    - [ ] Functional Template Method
+    - [ ] Summary 
+
+> A high-level blueprint for an algorithm to be completed by inheritors.
 
 More to come 🚀
