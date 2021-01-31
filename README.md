@@ -164,9 +164,17 @@ Here's what we plan to go through, and we've achieved so far:
 
 - Template Method
     - [x] Template Method
-    - [ ] Functional Template Method
+    - [x] Functional Template Method
     - [ ] Summary 
 
 > A high-level blueprint for an algorithm to be completed by inheritors.
+
+- Visitor
+    - [ ] Intrusive Visitor
+    - [ ] Reflective Visitor
+    - [ ] Dispatch 
+    - [ ] Classic Visitor 
+
+> Allow adding extra behaviours to entire hierarchies of types.
 
 More to come 🚀
