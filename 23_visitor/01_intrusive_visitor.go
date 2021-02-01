@@ -69,7 +69,7 @@ type Expression interface {
 // Addition Expression.
 
 func (d DoubleExpression) Print(sb *strings.Builder) {
-	sb.WriteString(fmt.Sprintf("%.g", d.value))
+	sb.WriteString(fmt.Sprintf("%g", d.value))
 }
 
 func (a AdditionExpression) Print(sb *strings.Builder) {
