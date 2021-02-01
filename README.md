@@ -170,7 +170,7 @@ Here's what we plan to go through, and we've achieved so far:
 > A high-level blueprint for an algorithm to be completed by inheritors.
 
 - Visitor
-    - [ ] Intrusive Visitor
+    - [x] Intrusive Visitor
     - [ ] Reflective Visitor
     - [ ] Dispatch 
     - [ ] Classic Visitor 
