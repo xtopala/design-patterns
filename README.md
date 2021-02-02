@@ -173,7 +173,7 @@ Here's what we plan to go through, and we've achieved so far:
     - [x] Intrusive Visitor
     - [x] Reflective Visitor
     - [ ] Dispatch 
-    - [ ] Classic Visitor 
+    - [x] Classic Visitor 
     - [ ] Summary 
 
 > Allow adding extra behaviours to entire hierarchies of types.
