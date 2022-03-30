@@ -73,7 +73,7 @@ func sendMailImpl(email *email) {
 
 // Well we can do this by using a -> Builder Parameter.
 // That's babically going to be a fucntion which sort of applies to the builder.
-// So we have to provide a function which takes a builder ant then does something
+// So we have to provide a function which takes a builder and then does something
 // with it, tipically sort of calls something on the builder.
 
 // We're going to use this function in our publicly exposed function called SendEmail.
