@@ -56,7 +56,7 @@ func (j *Journal) LoadFromWeb(url *url.URL) {
 	//...
 }
 
-// <- There are bad! These are breaking SRP.
+// <- These are bad! These are breaking SRP.
 // Beacause the responsibility of the Journal is to deal with the entries.
 // It's not to deal with persistance.
 
