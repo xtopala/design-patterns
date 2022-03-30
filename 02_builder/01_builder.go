@@ -4,8 +4,8 @@
 // actually already built into Go. And that is -> The String Builder
 
 // So we have a situation where let's say we're writting a web service.
-// And web server is supposed to server HTML. Classic dazed stuff here.
-// It also could server other things, like JavaScript, but who cares for JS.
+// And web server is supposed to serve HTML. Classic based stuff here.
+// It also could serve other things, like JavaScript, but who cares for JS.
 
 // The obvious thing here is that we need to build strings of HTML
 // from ordinary text elements, for example we have a piece of text and
