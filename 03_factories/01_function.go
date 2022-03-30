@@ -21,7 +21,7 @@ type Person struct {
 // We want default values, for example, and let's say there's another
 // property here, another field, which counts how many eyes a person has. Yes.
 
-// In most cases, they all have 2 eyes, in 99.999% od recurring cases we wouldn't
+// In most cases, they all have 2 eyes, in 99.999% of recurring cases we wouldn't
 // really want to customize this field. Growse !
 
 type PersonWithEyes struct {
