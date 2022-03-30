@@ -33,7 +33,7 @@ func (p *person) Fart() {
 // return a person, we return a -> Interface.
 
 // And the difference here is obviously that now we have just an interface
-// to work with, and we can't use to modify the underlying type.
+// to work with, and we can't use it to modify the underlying type.
 // Since we're not exposing that person type, only just the interface.
 
 // This is a neat way of encapsulating some information and just having
