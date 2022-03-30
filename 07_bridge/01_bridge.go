@@ -100,7 +100,7 @@ func (c *Circle) Resize(factor float32) {
 }
 
 // Now, what we need to do to get everything to operate is
-// we need to make a rendere which is a seperate component and
+// we need to make a renderer which is a seperate component and
 // then we provide that renderer into the circle.
 // We introduce it as a dependency.
 
