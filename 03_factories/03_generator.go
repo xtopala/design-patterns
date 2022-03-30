@@ -17,7 +17,7 @@ type Employee struct {
 }
 
 // We want to be able to create factories dependent upon the
-// settings that we want employees to subsequently be manufactured.
+// settings that we want employees to be subsequently manufactured.
 // Because, what we did in the previous example was that we basically
 // created a NewEmployee to just specify some sort of flag, and then we customized it.
 
